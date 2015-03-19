@@ -43,5 +43,5 @@ Error models and FPM values were derived using the [SCDE package](http://pklab.m
 # Results
 
 Cell sample orderings are a little different, but generally the same trends are recapitulated! 
-![Original Figure](https://raw.githubusercontent.com/JEFworks/Patel_GBM/master/results/fig1c.png =500x "Original Figure" )
-![Recreation](https://raw.githubusercontent.com/JEFworks/Patel_GBM/master/results/cnv.png =500x "Recreation")
+![Original Figure](results/fig1c.png)
+![Recreation](results/cnv.png)
